@@ -50,10 +50,10 @@ Modify the `config.py` file to suit your email server settings:
 - `EMAIL_DELAY_MIN` and `EMAIL_DELAY_MAX`: Minimum and maximum delay between sending each email.
 
 P.S
-- **HOST** (smtp.mail.ru - i recommend it for Russia | smtp.gmail.com - for Gmail | if it doesn't work, change it to something else)
-- **PORT** (you can check port for your host in google :)
-- **EMAIL_PASSWORD** (Email password | NOT from your Email !!! set up an App Password for automailer)
-- **FOLDER_TO_SAVE** ("&BB4EQgQ,BEAEMAQyBDsENQQ9BD0ESwQ1-" for Mail.ru (IMAP_UTF-7 decode) | 'Sent' for Gmail | for others you can look at the utils.py the commented-out function list_folders)
+- `HOST` (smtp.mail.ru - i recommend it for Russia | smtp.gmail.com - for Gmail | if it doesn't work, change it to something else)
+- `PORT` (you can check port for your host in google :)
+- `EMAIL_PASSWORD` (Email password | NOT from your Email !!! set up an App Password for automailer)
+- `FOLDER_TO_SAVE` ("&BB4EQgQ,BEAEMAQyBDsENQQ9BD0ESwQ1-" for Mail.ru (IMAP_UTF-7 decode) | 'Sent' for Gmail | for others you can look at the utils.py the commented-out function list_folders)
 
 ## Email Template
 
