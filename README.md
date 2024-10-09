@@ -86,11 +86,8 @@ recipient2@example.com,Jane Smith
 ## How to Run
 
 1. **Ensure all required files and directories are in place**:
-   - Create the following directories if they do not exist:
-     - `additional_files`
-     - `databases`
-     - `texts`
    - Place your email template in the `texts` folder and your recipient CSV in the `databases` folder.
+   - Modify the `config.py`
 
 2. **Start the Script**:
 
