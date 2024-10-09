@@ -1,0 +1,12 @@
+HOST = "smtp.google.com"
+HOST_IMAP = "imap.google.com"
+PORT = 587
+DISPLAY_NAME = "example"
+EMAIL_ADDRESS = "example@gmail.com"
+EMAIL_PASSWORD = "123456789"
+EMAIL_TEXT = "example.md"
+DATABASE = "example.csv"
+FOLDER_TO_SAVE = 'Sent'
+ADDITIONAL_FILE = "example.pdf"
+EMAIL_DELAY_MIN = 1
+EMAIL_DELAY_MAX = 2
